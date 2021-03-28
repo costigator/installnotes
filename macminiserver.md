@@ -2,6 +2,12 @@
 
 Some installation notes for my MacMini M1. The SSH key is generated on my Windows PC and used to access the Mac remotely.
 
+## Customize the shell
+
+```bash
+alias ll='ls -lG'
+```
+
 ## Generate SSH key
 
 ```bash
@@ -28,6 +34,7 @@ brew install --cask anydesk
 brew install --cask visual-studio-code
 brew install --cask docker
 brew install --cask ngrok
+brew install --cask iterm2
 ```
 
 ## Start the getting started container
