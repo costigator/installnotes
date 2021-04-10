@@ -18,6 +18,7 @@ ssh-keygen
 
 ```bash
 sudo softwareupdate -ia
+brew upgrade --cask
 ```
 
 ## Install Homebrew
