@@ -5,7 +5,7 @@ Some installation notes for my MacMini M1. The SSH key is generated on my Window
 ## Customize the shell
 
 ```bash
-alias ll='ls -lG'
+echo "alias ll='ls -lG'" >> ~/.zprofile
 ```
 
 ## Generate SSH key
