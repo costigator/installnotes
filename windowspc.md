@@ -24,6 +24,7 @@ Then install the desired apps:
 choco install choco-cleaner
 choco install choco-shortcuts-winconfig
 choco install googlechrome
+choco install firefox
 choco install powertoys
 choco install cpu-z
 choco install vscode
@@ -39,6 +40,7 @@ choco install citrix-workspace
 choco install WhatsApp
 choco install telegram
 choco install keepassx
+choco install authy-desktop
 choco install dropbox
 choco install dbeaver
 choco install intellijidea-community
