@@ -21,8 +21,11 @@ choco feature enable -n allowGlobalConfirmation
 Then install the desired apps:
 
 ```powershell
+choco install choco-cleaner
+choco install choco-shortcuts-winconfig
 choco install googlechrome
 choco install powertoys
+choco install cpu-z
 choco install vscode
 choco install notepadplusplus.install
 choco install git.install
@@ -32,6 +35,11 @@ choco install mremoteng
 choco install docker-desktop
 choco install greenshot
 choco install filezilla
+choco install citrix-workspace
+choco install WhatsApp
+choco install telegram
+choco install keepassx
+choco install dropbox
 choco install dbeaver
 choco install intellijidea-community
 choco install kubernetes-cli
@@ -48,6 +56,7 @@ choco install vlc
 choco install maven
 choco install winscp
 choco install putty
+choco install steam
 ```
 
 Optional:
@@ -57,8 +66,6 @@ choco install lghub --ignore-checksums
 ```
 
 Swisscom specific:
-
-Drive mount:
 
 ```powershell
 \\sch4045\x$\Server\Server_Common_for_all\Server_Settings_Batch
