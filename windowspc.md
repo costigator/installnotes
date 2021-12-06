@@ -60,6 +60,7 @@ choco install winscp
 choco install putty
 choco install steam
 choco install sonos-controller
+choco install vlc
 ```
 
 Optional:
