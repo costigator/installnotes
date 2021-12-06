@@ -59,6 +59,7 @@ choco install maven
 choco install winscp
 choco install putty
 choco install steam
+choco install sonos-controller
 ```
 
 Optional:
