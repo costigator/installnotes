@@ -61,6 +61,7 @@ choco install putty
 choco install steam
 choco install sonos-controller
 choco install vlc
+choco install anydesk
 ```
 
 Optional:
