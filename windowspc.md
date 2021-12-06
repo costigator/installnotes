@@ -60,7 +60,9 @@ Swisscom specific:
 
 Drive mount:
 
+```powershell
 \\sch4045\x$\Server\Server_Common_for_all\Server_Settings_Batch
+```
 
 ## Update
 
