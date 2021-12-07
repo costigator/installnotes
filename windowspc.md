@@ -21,47 +21,56 @@ choco feature enable -n allowGlobalConfirmation
 Then install the desired apps:
 
 ```powershell
+choco install 7zip.install
+choco install anydesk
+choco install authy-desktop
+choco install brave
+choco install cdburnerxp
 choco install choco-cleaner
 choco install choco-shortcuts-winconfig
-choco install googlechrome
-choco install firefox
-choco install powertoys
-choco install cpu-z
-choco install vscode
-choco install notepadplusplus.install
-choco install git.install
-choco install 7zip.install
-choco install python3
-choco install mremoteng
-choco install docker-desktop
-choco install greenshot
-choco install filezilla
 choco install citrix-workspace
-choco install WhatsApp
-choco install telegram
-choco install keepassx
-choco install authy-desktop
-choco install dropbox
-choco install dbeaver
-choco install intellijidea-community
-choco install kubernetes-cli
-choco install kubelogin
-choco install tortoisesvn
 choco install corretto11jdk
-choco install keepass
-choco install vmwareworkstation (requires reboot)
-choco install drawio
-choco install make
-choco install cygwin
+choco install cpu-z
 choco install cyg-get
-choco install vlc
+choco install cygwin
+choco install dbeaver
+choco install docker-desktop
+choco install drawio
+choco install dropbox
+choco install em-client
+choco install filezilla
+choco install firefox
+choco install git.install
+choco install googlechrome
+choco install greenshot
+choco install intellijidea-community
+choco install keepass
+choco install keepassxc
+choco install kubelogin
+choco install kubernetes-cli
+choco install make
 choco install maven
-choco install winscp
+choco install mremoteng
+choco install nextcloud-client
+choco install notepadplusplus.install
+choco install pdf24
+choco install powertoys
 choco install putty
-choco install steam
+choco install python3
+choco install signal
 choco install sonos-controller
+choco install steam
+choco install sysinternals
+choco install teamviewer
+choco install telegram
+choco install tortoisesvn
 choco install vlc
-choco install anydesk
+choco install vmwareworkstation
+choco install vscode
+choco install WhatsApp
+choco install winrar --ignore-checksums
+choco install winscp
+
 ```
 
 Optional:
