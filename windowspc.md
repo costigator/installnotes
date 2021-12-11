@@ -89,7 +89,17 @@ Swisscom specific:
 
 ## Update
 
+Check outdated packages:
+
+```powershell
+choco outdated
+```
+
+Updated all the packages:
+
+```powershell
 choco upgrade all
+```
 
 ## Blacklist updates
 
