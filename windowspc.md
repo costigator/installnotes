@@ -34,6 +34,7 @@ choco install cpu-z
 choco install cyg-get
 choco install cygwin
 choco install dbeaver
+choco install discord
 choco install docker-desktop
 choco install drawio
 choco install dropbox
@@ -50,6 +51,7 @@ choco install kubelogin
 choco install kubernetes-cli
 choco install make
 choco install maven
+choco install mongodb-compass
 choco install mremoteng
 choco install nextcloud-client
 choco install notepadplusplus.install
