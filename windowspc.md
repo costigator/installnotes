@@ -65,6 +65,7 @@ choco install steam
 choco install sysinternals
 choco install teamviewer
 choco install telegram
+choco install telnet
 choco install tortoisesvn
 choco install vlc
 choco install vmwareworkstation
