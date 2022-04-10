@@ -43,3 +43,8 @@ brew install --cask iterm2
 ```bash
 docker run -d -p 80:80 docker/getting-started
 ```
+
+## Terminal
+
+- https://iterm2.com/
+- https://ohmyz.sh/
