@@ -55,6 +55,7 @@ choco install mongodb-compass
 choco install mremoteng
 choco install nextcloud-client
 choco install notepadplusplus.install
+choco install obsidian
 choco install pdf24
 choco install powertoys
 choco install putty
