@@ -7,9 +7,10 @@ My installation and setup notes for my MacMini M1.
 - Scroll direction (uncheck natural)
 - Mouse tracking speed
 
-## Apps
+## Utilities
 
 - [SwitchResX](https://www.madrau.com)
+- [Sound Source](https://rogueamoeba.com/soundsource/) (Security changes and license needed)
 
 ## App Store
 
