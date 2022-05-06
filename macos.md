@@ -1,11 +1,17 @@
 # Installation MacMini M1
 
-Some installation notes for my MacMini M1. The SSH key is generated on my Windows PC and used to access the Mac remotely.
+My installation and setup notes for my MacMini M1. 
 
 ## System preferences
 
 - Scroll direction (uncheck natural)
 - Mouse tracking speed
+
+## Apps
+
+- [SwitchResX](https://www.madrau.com)
+
+## App Store
 
 ## Customize the shell
 
@@ -14,6 +20,8 @@ echo "alias ll='ls -lG'" >> ~/.zprofile
 ```
 
 ## Generate SSH key
+
+The SSH key is generated on my Windows PC and used to access the Mac remotely.
 
 ```bash
 ssh-keygen
