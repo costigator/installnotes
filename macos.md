@@ -2,6 +2,11 @@
 
 Some installation notes for my MacMini M1. The SSH key is generated on my Windows PC and used to access the Mac remotely.
 
+## System preferences
+
+- Scroll direction (uncheck natural)
+- Mouse tracking speed
+
 ## Customize the shell
 
 ```bash
