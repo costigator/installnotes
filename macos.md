@@ -24,7 +24,7 @@ Don't forget to do the last steps that are described after the installation:
 Install these apps:
 
 ```bash
-brew install htop iterm2 rectangle pyenv
+brew install htop iterm2 rectangle pyenv git
 brew install --cask docker
 brew install --cask anydesk
 brew install --cask visual-studio-code
@@ -76,8 +76,3 @@ brew upgrade --cask
 ```bash
 docker run -d -p 80:80 docker/getting-started
 ```
-
-## Terminal
-
-- https://iterm2.com/
-- https://ohmyz.sh/
