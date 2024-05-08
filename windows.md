@@ -1,10 +1,10 @@
 # Installation Windows
 
-This installation guide is intended for home and/or business Windows 10/11 PC.
+This is my personal installation guide for home and/or business Windows 10/11 PC.
 
 # Installation
 
-First of all update Windowsa and install the required drivers.
+First of all update Windows and install the required drivers.
 
 Then open a Powershell with elevated privileges and install chocolatey:
 
@@ -83,10 +83,16 @@ Optional:
 choco install lghub --ignore-checksums
 ```
 
-Swisscom specific:
+Work specific:
 
 ```powershell
 \\sch4045\x$\Server\Server_Common_for_all\Server_Settings_Batch
+```
+
+Generate keypair:
+
+```powershell
+ssh-keygen -t ed25519
 ```
 
 ## Update
