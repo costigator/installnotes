@@ -37,7 +37,6 @@ choco install dbeaver
 choco install discord
 choco install docker-desktop
 choco install drawio
-choco install dropbox
 choco install em-client
 choco install filezilla
 choco install firefox
@@ -45,7 +44,6 @@ choco install git.install
 choco install googlechrome
 choco install greenshot
 choco install intellijidea-community
-choco install keepass
 choco install keepassxc
 choco install kubelogin
 choco install kubernetes-cli
